@@ -15,8 +15,9 @@ If you're interested, here's my [LinkedIn](https://www.linkedin.com/in/coton-che
 <br/>
 <br/>
 
-![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=coton&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=coton&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coton&layout=compact)](https://github.com/coton/github-readme-stats)
 
 <!--
 **coton/coton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
