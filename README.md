@@ -1,12 +1,12 @@
 ### Hi there 👋
 <br/>
-&ensp;My name is Coton, I am a full stack engineer and my current main technology stack is React, Vue, Node.js, Laravel/Lumen (PHP), GraphQL, Java, Linux, Docker.
+&ensp;My name is Colton, I am a full stack engineer and my current main technology stack is React, Vue, Node.js, Laravel/Lumen (PHP), GraphQL, Java, Linux, Docker.
 Currently I am working on Web3, DApp, BlockChain.    
 
 If you're interested, here's my [LinkedIn](https://www.linkedin.com/in/coton-chen).  
 <br/>
 <br/>
-&#8195;我叫Coton, 我是一个全栈工程师，目前主要的技术栈是React, Vue, Node.js,Laravel/Lumen(PHP), GraphQL, Java, Linux, Docker。
+&#8195;我叫Colton, 我是一个全栈工程师，目前主要的技术栈是React, Vue, Node.js, Laravel/Lumen(PHP), GraphQL, Java, Linux, Docker。
 目前我的工作方向包括Web3, DApp, BlockChain等。
 
 
